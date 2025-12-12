@@ -1,0 +1,3 @@
+Gesucht wird ein 10-stelliger Code für ein elektronisches Zahlenschloss. Doch dieser ist mit den folgenden Zahlen verschlüsselt. Wie lautet der richtige Code? 
+
+24164232
