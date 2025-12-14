@@ -1,0 +1,4 @@
+Gesucht wird der Code für Fränks Fahrradschloss. 
+Die zweite Ziffer ist doppelt so groß wie die fünfte Ziffer, aber das dreifache der vierten Ziffer. Die dritte Ziffer ist halb so groß wie die erste Ziffer, aber doppelt so groß wie die vierte Ziffer.
+
+Wie lautet der Code für das Fahrradschloss?
