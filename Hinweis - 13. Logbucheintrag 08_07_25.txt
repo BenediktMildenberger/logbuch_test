@@ -1,0 +1,10 @@
+Wie lautet die Zahlenkombination für ein Zahlenschloss? 
+
+
+2841  Alle Ziffern sind falsch.
+
+0549 Eine Ziffer ist korrekt und steht an der richtigen Position
+
+3572 Zwei Ziffern sind korrekt, eine davon ist an der richtigen Position
+
+6894 Zwei Ziffern sind korrekt, stehen aber an der falschen Position
