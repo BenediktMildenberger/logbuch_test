@@ -1,0 +1,5 @@
+Gesucht ist eine dreistellige Zahl. 
+
+Ihre erste Ziffer ist halb so groß, wie die zweite. 
+Ihre zweite Ziffer ist dreimal so groß wie die dritte.
+Wie lautet diese Zahl?
