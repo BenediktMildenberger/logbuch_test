@@ -1,0 +1,1 @@
+Ich teile einen Kuchen in 24 Stücke und nummeriere sie von 1 bis 24. Ich esse davon solange jedes dritte Stück (beginnend mit dem Dritten), bis nur noch eines übrig ist. Welches Stück ist am Ende noch übrig?
